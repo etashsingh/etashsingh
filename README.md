@@ -1,5 +1,4 @@
 ### Hi there, Welcome to my profile 👋
-![](rsz_68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f66352f35652f38302f66353565383035396561393435616266643638303462383837646434613061662e676966.gif) ![](rsz_k8s.png) ![](https://seeklogo.com/images/G/git-logo-A1D01DDA30-seeklogo.com.png)
 
 <!--
 **etashsingh/etashsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
