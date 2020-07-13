@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://ph-files.imgix.net/01ff7929-03e9-45c3-8398-1ff1ae6abead?auto=format)
+![](https://ph-files.imgix.net/01ff7929-03e9-45c3-8398-1ff1ae6abead?auto=format = 250x250)
 
 <!--
 **etashsingh/etashsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
