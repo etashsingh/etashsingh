@@ -77,5 +77,5 @@ I mostly work with DevOps technologies.☁️🚀
 
 ### 📫 How to reach me? 
 
-  ⦿ Connect with me on [LinkedIn](https://github.com/etashsingh) 👨🏻‍💻 <br>
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/etashsingh/) 👨🏻‍💻 <br>
   ⦿ Shoot Me an [Email](mailto:etashsingh29@gmail.com) 💌 <br>
