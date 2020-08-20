@@ -17,13 +17,16 @@ I mostly work with DevOps technologies.☁️🚀
     <img src="https://raw.githubusercontent.com/etashsingh/etashsingh/master/assets/k8s.gif"  height="75" />
   </a>
   <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/etashsingh/etashsingh/master/assets/jenkins.png"  height="65" />
+  </a>
+  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
     <img src="https://raw.githubusercontent.com/etashsingh/etashsingh/master/assets/cicd.gif"  height="65" />
   </a>
   <a href="https://helm.sh/" target="_blank" >
     <img src="https://raw.githubusercontent.com/etashsingh/etashsingh/master/assets/helm.gif"  height="75" />
   </a>
   <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/etashsingh/etashsingh/master/assets/linux.png"  height="80" /> 
+    <img src="https://raw.githubusercontent.com/etashsingh/etashsingh/master/assets/linux.png"  height="75" /> 
   </a>
  </p>
   
