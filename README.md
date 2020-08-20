@@ -54,7 +54,13 @@ I mostly work with DevOps technologies.☁️🚀
     <img src="https://raw.githubusercontent.com/etashsingh/etashsingh/master/assets/prometheus.gif" height="65" />
   </a>
   <a href="https://prometheus.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/etashsingh/etashsingh/master/assets/graphite.png" height="65" />
+  </a>
+  <a href="https://prometheus.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/etashsingh/etashsingh/master/assets/elastic.gif" height="65" />
+  </a>
+  <a href="https://prometheus.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/etashsingh/etashsingh/master/assets/loki.png" height="65" />
   </a>
 </p>
 
