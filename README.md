@@ -43,7 +43,7 @@ I mostly work with DevOps technologies.☁️🚀
     <img src="https://raw.githubusercontent.com/etashsingh/etashsingh/master/assets/aws.gif"  height="75" />
   </a>
   <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/etashsingh/etashsingh/master/assets/gcp.png"  height="75" />
+    <img src="https://raw.githubusercontent.com/etashsingh/etashsingh/master/assets/gcp.jpg"  height="75" />
   </a>
  </p>
   
