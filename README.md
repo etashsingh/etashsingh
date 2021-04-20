@@ -65,6 +65,9 @@ I mostly work with DevOps technologies.☁️🚀
   <a href="https://prometheus.io/" target="_blank" >
     <img src="https://raw.githubusercontent.com/etashsingh/etashsingh/master/assets/loki.png" height="65" />
   </a>
+  <a href="https://thanos.io/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/etashsingh/etashsingh/master/assets/5100989.gif" height="65" />
+  </a>
 </p>
 
 ### Databases
